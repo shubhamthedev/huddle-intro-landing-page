@@ -6,4 +6,4 @@
 
 Thanks for checking out this front-end coding challenge solution, do remember to provide me some feedback over at [FrontEndMentor](frontendmentor.io).
 
-You could check this site [here] (https://tomboynotes.github.io/huddle-intro-landing-page/).
+You could check this site [here](https://tomboynotes.github.io/huddle-intro-landing-page/).
